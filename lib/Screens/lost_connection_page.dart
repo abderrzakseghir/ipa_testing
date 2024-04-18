@@ -75,4 +75,9 @@ class _NoConnectionPageState extends State<NoConnectionPage> {
 * git remote add origin https://github.com/abderrzakseghir/ipa_testing.git
 git branch -M main
 git push -u origin main
+*
+*
+*
+*
+*
 * */
